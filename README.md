@@ -33,7 +33,7 @@
 Все исходники компилируются через `pdflatex` или `latexmk`:
 ```bash
 pdflatex -interaction=nonstopmode template.tex
-```bash
+```
 ---
 
 ## License
