@@ -23,12 +23,5 @@
 
 ---
 
-## 🛠 Сборка документов
-Все исходники компилируются через `pdflatex` или `latexmk`:
-```bash
-pdflatex -interaction=nonstopmode template.tex
-```
----
-
 ## License
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
